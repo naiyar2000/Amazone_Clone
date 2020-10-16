@@ -5,3 +5,5 @@ A clone of Amazon e-commerce website using React and authentication using fireba
 Hosted on firebase
 
 LIVE:  amzoneclone.web.app
+
+Please contribute, to make it better.
