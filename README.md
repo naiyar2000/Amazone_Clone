@@ -5,3 +5,4 @@ A clone of Amazon e-commerce site is created using React and authentication usin
 Hosted on firebase
 
 LIVE:  amzoneclone.web.app
+(demo)
