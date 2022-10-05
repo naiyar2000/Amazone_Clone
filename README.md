@@ -1,4 +1,4 @@
-# Amazone_Clone
+# Amazon_Clone
 
 A clone of Amazon e-commerce site is created using React and authentication using Firebase.
 
