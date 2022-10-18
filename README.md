@@ -7,3 +7,4 @@ Hosted on firebase
 LIVE:  amzoneclone.web.app
 
 Please contribute, to make it better.
+Edited by Adi
