@@ -7,3 +7,6 @@ Hosted on firebase
 LIVE:  amzoneclone.web.app
 (demo)
 Hello Naiyar
+
+
+Hello Naiyar __-Regards Udesh
