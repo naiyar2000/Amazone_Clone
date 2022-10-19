@@ -8,4 +8,6 @@ LIVE:  amzoneclone.web.app
 (demo)
 Hello Naiyar
 
+
+Hello Naiyar __-Regards Udesh
 Edited by Satya Ranjan Nayak
