@@ -7,3 +7,5 @@ Hosted on firebase
 LIVE:  amzoneclone.web.app
 (demo)
 Hello Naiyar
+
+Edited by Satya Ranjan Nayak
