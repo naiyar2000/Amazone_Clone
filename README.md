@@ -6,7 +6,7 @@ A clone of Amazon E-commerce site is created using React and Authentication usin
 Hosted on firebase
 
 
-It's a dummy project
+It's a dummy project.
 
 LIVE:  amzoneclone.web.app
 (demo)
@@ -16,4 +16,4 @@ Hello Naiyar
 Hello Naiyar __-Regards Udesh
 Edited by Satya Ranjan Nayak
 
-Hello Naiyar
+Hi Naiyar
